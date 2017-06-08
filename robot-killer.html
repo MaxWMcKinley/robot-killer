@@ -1,14 +1,4 @@
 <!DOCTYPE html>
-<!--
-Example implementation of invisible recaptcha.
-The invisible recaptcha uses a risk analysis engine to determine the likelihood of a user being a robot.
-If it decides there is a potential bot accessing the page the user will be forced to do a normal picture or audio captcha.
-There are three different security settings under the advanced settings on the page above, this controls how often a user is actually prompted to solve a captcha.
-The recaptcha is invoked when the user clicks the submit button, but this can also be done through a javascript API call.
-Normally recaptcha has limited support for users without javascript enabled, invisible recaptcha has no support for this.
-Keys can be generated and security level changed here:
-https://www.google.com/recaptcha/admin
--->
 <html>
 <head>
     <title>Robot Killer</title>
@@ -21,6 +11,7 @@ https://www.google.com/recaptcha/admin
 <form onsubmit="callback()">
     <p>Click button to test for humanity</p>
     <!--
+    Below is the button where the recaptcha is attached
     You can set data-badge to inline to format with custom CSS
     You can set data-type to audio to change the captcha problem type
     More information on configuration and the javascript API can be found here:

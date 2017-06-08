@@ -2,9 +2,11 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="57f03508-00e9-417a-adf2-0681575bdd83" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SimpleHTTPServerX.py" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/SimpleHTTPServerX2.py" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot-killer.html" afterPath="$PROJECT_DIR$/robot-killer.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/robot-killer.js" afterPath="$PROJECT_DIR$/robot-killer.js" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,11 +17,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="robot-killer.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/robot-killer.html">
+      <file leaf-file-name="README.md" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="75">
-              <caret line="5" column="162" lean-forward="false" selection-start-line="5" selection-start-column="162" selection-end-line="5" selection-end-column="162" />
+            <state relative-caret-position="15">
+              <caret line="1" column="128" lean-forward="false" selection-start-line="1" selection-start-column="128" selection-end-line="1" selection-end-column="128" />
               <folding />
             </state>
           </provider>
@@ -40,8 +42,9 @@
       <list>
         <option value="$PROJECT_DIR$/SimpleHTTPServerX2.py" />
         <option value="$PROJECT_DIR$/SimpleHTTPServerX.py" />
-        <option value="$PROJECT_DIR$/robot-killer.html" />
         <option value="$PROJECT_DIR$/robot-killer.js" />
+        <option value="$PROJECT_DIR$/robot-killer.html" />
+        <option value="$PROJECT_DIR$/README.md" />
       </list>
     </option>
   </component>
@@ -429,42 +432,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding>
-            <marker date="1496941837000" expanded="true" signature="0:152" ph="&quot;&quot;&quot;Simple HTTP Server....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="false" signature="216:347" ph="import ..." />
-            <marker date="1496941837000" expanded="true" signature="514:8039" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="520:869" ph="&quot;&quot;&quot;Simple HTTP request handler with GET and HEAD commands....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="942:1129" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1020:1129" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1153:1254" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1280:3573" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1289:1674" ph="&quot;&quot;&quot;Common code for GET and HEAD commands....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="1769:2531" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1863:2261" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2003:2086" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2313:2464" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2405:2464" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2582:2826" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2595:2793" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2850:2925" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2938:3517" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="3533:3573" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="3610:5366" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="3619:3876" ph="&quot;&quot;&quot;Helper to produce a directory listing (absent index.html)....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="3950:4042" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="4461:5015" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="4654:4733" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="4774:4894" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="5403:6340" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="5412:5659" ph="&quot;&quot;&quot;Translate a /-separated PATH to the local filename syntax....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="6073:6269" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="6385:6944" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="6394:6897" ph="&quot;&quot;&quot;Copy all data between two file objects....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="6977:7730" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="6986:7435" ph="&quot;&quot;&quot;Guess the type of a file....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="7893:8037" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="8142:8193" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -472,12 +440,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="165">
           <caret line="11" column="9" lean-forward="false" selection-start-line="11" selection-start-column="9" selection-end-line="11" selection-end-column="9" />
-          <folding>
-            <marker date="1496941462000" expanded="true" signature="97:370" ph="..." />
-            <marker date="1496941462000" expanded="true" signature="124:225" ph="..." />
-            <marker date="1496941462000" expanded="true" signature="257:370" ph="..." />
-            <marker date="1496941462000" expanded="true" signature="324:370" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -485,42 +448,7 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="15">
           <caret line="55" column="21" lean-forward="true" selection-start-line="55" selection-start-column="21" selection-end-line="55" selection-end-column="21" />
-          <folding>
-            <marker date="1496941837000" expanded="true" signature="0:152" ph="&quot;&quot;&quot;Simple HTTP Server....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="false" signature="216:347" ph="import ..." />
-            <marker date="1496941837000" expanded="true" signature="514:8039" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="520:869" ph="&quot;&quot;&quot;Simple HTTP request handler with GET and HEAD commands....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="942:1129" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1020:1129" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1153:1254" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1280:3573" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1289:1674" ph="&quot;&quot;&quot;Common code for GET and HEAD commands....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="1769:2531" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="1863:2261" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2003:2086" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2313:2464" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2405:2464" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2582:2826" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2595:2793" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2850:2925" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="2938:3517" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="3533:3573" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="3610:5366" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="3619:3876" ph="&quot;&quot;&quot;Helper to produce a directory listing (absent index.html)....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="3950:4042" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="4461:5015" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="4654:4733" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="4774:4894" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="5403:6340" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="5412:5659" ph="&quot;&quot;&quot;Translate a /-separated PATH to the local filename syntax....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="6073:6269" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="6385:6944" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="6394:6897" ph="&quot;&quot;&quot;Copy all data between two file objects....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="6977:7730" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="6986:7435" ph="&quot;&quot;&quot;Guess the type of a file....&quot;&quot;&quot;" />
-            <marker date="1496941837000" expanded="true" signature="7893:8037" ph="..." />
-            <marker date="1496941837000" expanded="true" signature="8142:8193" ph="..." />
-          </folding>
+          <folding />
         </state>
       </provider>
     </entry>
@@ -540,8 +468,23 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/robot-killer.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="75">
-          <caret line="5" column="162" lean-forward="false" selection-start-line="5" selection-start-column="162" selection-end-line="5" selection-end-column="162" />
+        <state relative-caret-position="255">
+          <caret line="17" column="47" lean-forward="false" selection-start-line="17" selection-start-column="0" selection-end-line="18" selection-end-column="0" />
+          <folding>
+            <marker date="1496945187000" expanded="true" signature="21:1010" ph="..." />
+            <marker date="1496945187000" expanded="true" signature="28:273" ph="..." />
+            <marker date="1496945187000" expanded="true" signature="280:1002" ph="..." />
+            <marker date="1496945187000" expanded="true" signature="338:972" ph="..." />
+            <marker date="1496945187000" expanded="true" signature="393:717" ph="..." />
+            <marker date="1496945187000" expanded="true" signature="732:964" ph="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/README.md">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15">
+          <caret line="1" column="128" lean-forward="false" selection-start-line="1" selection-start-column="128" selection-end-line="1" selection-end-column="128" />
           <folding />
         </state>
       </provider>
