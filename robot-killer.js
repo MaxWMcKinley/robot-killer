@@ -1,7 +1,7 @@
 function callback() {
     console.log("In callback function");
 
-    var secret = "6LegrCQUAAAAAGGozP6xPliS7KDSBWzfkTAFYiaS";
+    var secret = "6LfXsyQUAAAAABb5hGNWFeOIJrEbKvSGwUjHV_4c";
     console.log("Secret: " + secret);
 
     $.ajax({
